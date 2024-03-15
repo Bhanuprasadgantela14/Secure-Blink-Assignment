@@ -19,6 +19,9 @@ authorization system using Express.js.
 - Comprehensive test cases have been written to ensure that authentication, authorization, and security features are working as expected.
 <h2>Run Locally</h2>
 
+### Postman Responses
+<h2><a href="<h1>https://github.com/Bhanuprasadgantela14/Secure-Blink-Assignment/blob/main/Blink.postman_collection.json</h1>"> Git Repo Page </a></h2>
+
 <h3>Clone the Project</h3>
 <pre>git clone https://github.com/Bhanuprasadgantela14/Secure-Blink-Assignment.git</pre>
 
