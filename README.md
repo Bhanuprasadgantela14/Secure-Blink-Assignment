@@ -20,7 +20,7 @@ authorization system using Express.js.
 <h2>Run Locally</h2>
 
 ### Postman Responses
-<h2><a href="<h1>https://github.com/Bhanuprasadgantela14/Secure-Blink-Assignment/blob/main/Blink.postman_collection.json</h1>"> Git Repo Page </a></h2>
+<b> File Location: https://github.com/Bhanuprasadgantela14/Secure-Blink-Assignment/blob/main/Blink.postman_collection.json</b>
 
 <h3>Clone the Project</h3>
 <pre>git clone https://github.com/Bhanuprasadgantela14/Secure-Blink-Assignment.git</pre>
